@@ -1,0 +1,4 @@
+baseURL = 'xiaoxiazhang.me'
+languageCode = 'en-us'
+title = 'Xiaoxiazhang Home'
+theme = "hugo-PaperMod"
