@@ -1,4 +1,4 @@
-baseURL = 'xiaoxiazhang.me'
+baseURL = 'https://xiaoxiazhang.me/'
 languageCode = 'en-us'
 title = 'Xiaoxiazhang Home'
 theme = "hugo-PaperMod"
